@@ -7,9 +7,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/mhmdrzabd" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/mhmdrz_abd" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://stackoverflow.com/users/mhmdrz_abd" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://instagram.com/mhmdrz_abd" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://medium.com/@mhmdrzabd" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.kaggle.com/mhmdrzabd4567" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://stackoverflow.com/users/mhmdrz_abd" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
 
 ---
@@ -36,7 +36,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrzabd&locale=en&layout=compact&theme=dracula" height="150" alt="top languages"/>
 </div>
 
+---
+
 ### 🐍 Contribution Snake Animation
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=mhmdrzabd&theme=dracula" alt="github contribution snake animation"/>
+  <img src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="github contribution snake animation"/>
 </div>
