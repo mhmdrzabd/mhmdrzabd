@@ -40,5 +40,5 @@
 
 ### 🐍 Contribution Snake Animation
 <div align="center">
-  <img src="github.com/mhmdrzabd/mhmdrzabd/blob/main/.github" alt="github contribution snake animation"/>
+  <img src=".github/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
 </div>
